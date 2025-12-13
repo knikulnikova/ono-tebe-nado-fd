@@ -1,1 +1,106 @@
-/* место для вашего кода */
+/* Шрифты */
+
+.navigation-text {
+  color: #000;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 100%;
+  text-transform: lowercase;
+}
+
+.address-text {
+  color: #000;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 135%;
+}
+
+.cover-text {
+  color: #FFF;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 114.99999999999999%;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+.subtitle-cover-text {
+  color: #FFF;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+.button-text {
+  color: #FFF;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 100%;
+  text-transform: uppercase;
+}
+
+.title {
+  color: #000;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 100%;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  color: #FFF;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 120%;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.main-text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.more-text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  text-transform: lowercase;
+}
+
+.header {
+ padding-right: 50px;
+ padding-left: 50px;
+}
+
+.cover {
+  background-image: url(../images/cover.jpg);
+  padding: 165px 50px 50px;
+}
+
+.lots {
+  margin: 180px 24px 120px;
+}
+
+.card_type_film {
+  background-image: url(../images/card-lot-01.jpg);
+}
+
+.card_type_book {
+  background-image: url(../images/card-lot-02.jpg);
+}
+
+.card_type_picture {
+  background-image: url(../images/card-lot-03.jpg);
+}
+
+.about {
+  margin: 0 24px 180px;
+}
+
+.footer {
+  padding-right: 50px;
+  padding-left: 50px;
+}
